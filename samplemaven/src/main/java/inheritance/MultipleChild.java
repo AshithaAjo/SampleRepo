@@ -7,7 +7,7 @@ public class MultipleChild implements multipleparent1,multipleparent2{
 		int m=10;
 		int n=40;
 		int p=m+n;
-		System.out.println(p);
+		System.out.println(p); 
 		
 	}
 
